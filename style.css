@@ -1,5 +1,5 @@
 /* ESTILO GERAL */
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -40,7 +40,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #4682B4;
+    color: #2adf06;
 }
 
 button:hover,
@@ -101,7 +101,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: #4682B4;
+    color: #2adf06;
 }
 
 .topo-do-site .txt-topo-site p {
@@ -146,7 +146,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #4682B4;
+    color: #2adf06;
     display: block;
 
 }
@@ -161,9 +161,11 @@ section.sobre .flex {
     height: 60px;
     border-radius: 50%;
     border: 0;
-    background-color: #4682B4;
+    background-color: #2adf06;
     font-size: 22px;
     cursor: pointer;
     margin: 0 8px;
     transition: .2s;
 }
+
+
